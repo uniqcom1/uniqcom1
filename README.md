@@ -1,18 +1,18 @@
-(‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1)은(는) 개인정보보호법에 따라 이용자의 개인정보 보호 및 권익을 보호하고 개인정보와 관련한 이용자의 고충을 원활하게 처리할 수 있도록 다음과 같은 처리방침을 두고 있습니다.
+(‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1)은(는) 개인정보보호법에 따라 이용자의 개인정보 보호 및 권익을 보호하고 개인정보와 관련한 이용자의 고충을 원활하게 처리할 수 있도록 다음과 같은 처리방침을 두고 있습니다.
 
 ('uniqcom1') 은(는) 회사는 개인정보처리방침을 개정하는 경우 웹사이트 공지사항(또는 개별공지)을 통하여 공지할 것입니다.
 
 ○ 본 방침은부터 2020년 1월 1일부터 시행됩니다.
 
-    개인정보의 처리 목적 (‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1)은(는) 개인정보를 다음의 목적을 위해 처리합니다. 처리한 개인정보는 다음의 목적이외의 용도로는 사용되지 않으며 이용 목적이 변경될 시에는 사전동의를 구할 예정입니다.
+    개인정보의 처리 목적 (‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1)은(는) 개인정보를 다음의 목적을 위해 처리합니다. 처리한 개인정보는 다음의 목적이외의 용도로는 사용되지 않으며 이용 목적이 변경될 시에는 사전동의를 구할 예정입니다.
 
 가. 홈페이지 회원가입 및 관리
 
 회원 가입의사 확인 등을 목적으로 개인정보를 처리합니다.
 
-    개인정보 파일 현황 (‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1)가 개인정보 보호법 제32조에 따라 등록․공개하는 개인정보파일의 처리목적은 다음과 같습니다.
+    개인정보 파일 현황 (‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1)가 개인정보 보호법 제32조에 따라 등록․공개하는 개인정보파일의 처리목적은 다음과 같습니다.
 
-※ 기타(‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1)의 개인정보파일 등록사항 공개는 개인정보보호위원회 개인정보보호 종합지원 포털(www.privacy.go.kr) → 개인정보민원 → 개인정보열람등 요구 → 개인정보파일 목록검색 메뉴를 활용해주시기 바랍니다.
+※ 기타(‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1)의 개인정보파일 등록사항 공개는 개인정보보호위원회 개인정보보호 종합지원 포털(www.privacy.go.kr) → 개인정보민원 → 개인정보열람등 요구 → 개인정보파일 목록검색 메뉴를 활용해주시기 바랍니다.
 
     개인정보의 처리 및 보유 기간
 
@@ -36,7 +36,7 @@
 
     처리하는 개인정보의 항목 작성
 
-① (‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1)은(는) 다음의 개인정보 항목을 처리하고 있습니다.
+① (‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1)은(는) 다음의 개인정보 항목을 처리하고 있습니다.
 
     개인정보의 파기('uniqcom1')은(는) 원칙적으로 개인정보 처리목적이 달성된 경우에는 지체없이 해당 개인정보를 파기합니다. 파기의 절차, 기한 및 방법은 다음과 같습니다.
 
@@ -54,11 +54,11 @@ uniqcom1 은 정보주체의 이용정보를 저장하고 수시로 불러오는
 
     개인정보 보호책임자 작성
 
-① uniqcom1(‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
+① uniqcom1(‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1) 은(는) 개인정보 처리에 관한 업무를 총괄해서 책임지고, 개인정보 처리와 관련한 정보주체의 불만처리 및 피해구제 등을 위하여 아래와 같이 개인정보 보호책임자를 지정하고 있습니다.
 
 ▶ 개인정보 보호책임자 성명 :uniqcom1 직책 :대표 직급 :대표 연락처 :01058530428, uniqcom1@gmail.com, ※ 개인정보 보호 담당부서로 연결됩니다.
 
-▶ 개인정보 보호 담당부서 부서명 : 담당자 : 연락처 :, , ② 정보주체께서는 uniqcom1(‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. uniqcom1(‘https://github.com/uniqcom1/uniqcom1/edit/master/README.’이하 ‘uniqcom1) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
+▶ 개인정보 보호 담당부서 부서명 : 담당자 : 연락처 :, , ② 정보주체께서는 uniqcom1(‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1) 의 서비스(또는 사업)을 이용하시면서 발생한 모든 개인정보 보호 관련 문의, 불만처리, 피해구제 등에 관한 사항을 개인정보 보호책임자 및 담당부서로 문의하실 수 있습니다. uniqcom1(‘https://github.com/uniqcom1/uniqcom1/blob/main/README.md’이하 ‘uniqcom1) 은(는) 정보주체의 문의에 대해 지체 없이 답변 및 처리해드릴 것입니다.
 
     개인정보 처리방침 변경
 
